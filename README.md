@@ -14,38 +14,9 @@
 
 ---
 
-## 🔬 Professional Summary
+## 🔬 About Me
 
 Laboratory technician with a background in **bioinformatics** and **paediatric cancer genomics**, bringing 2+ years of experience in high‑throughput diagnostics, quality control, and data analysis. Passionate about leveraging computational and statistical approaches to advance biomedical research. Currently supporting lab operations at Labcorp, I am actively seeking opportunities in **bioinformatics**, **biostatistics**, or **R&D** – where I can apply my analytical skills, genomic data expertise, and problem‑solving mindset to drive meaningful scientific discovery.
-
----
-
-## 💼 Experience
-
-### **Lab Technician**  
-*Labcorp – Calabasas, CA*  
-*Dec 2025 – Present*  
-- Operate and maintain **QUANTA‑Lyser 3000** instruments for ELISA assays, consistently delivering quality‑controlled results.  
-- Adhere to **ISO 15189** standards and strict PPE guidelines, ensuring safe handling of bio‑hazardous materials.  
-- Collaborate with the team to maintain workflow schedules and resolve instrumentation issues in a timely manner.
-
----
-
-### **Biology Technician & Data Analyst**  
-*Data Annotation – Remote*  
-*Jul 2023 – Jun 2025*  
-- Curated and validated **100+** high‑quality biomedical knowledge datasets for LLM training, specialising in **genomic variants** and **clinical trial data**.  
-- Applied protocol‑driven annotation workflows to evaluate AI model outputs, reducing hallucination rates by **35%** through systematic error tracking and iterative feedback.  
-- Designed dynamic visualisation tools to track molecular evolution patterns, supporting research in **protein engineering** and **genomic surveillance**.
-
----
-
-### **Undergraduate Computational Research Assistant**  
-*Morozova Vaske Lab, UCSC – Santa Cruz, CA*  
-*Jan 2022 – Mar 2022*  
-- Analysed paediatric cancer **RNA‑seq** data via SSH on remote Linux servers, flagging somatic variants linked to tumorigenesis and epigenomic dysregulation.  
-- Processed genomic pipelines using **BASH** to correlate RNA/DNA variants, maintaining detailed experimental records.  
-- Collaborated with the research team to consolidate variant analysis findings, contributing data to **targeted therapy development** for paediatric cancers.
 
 ---
 
