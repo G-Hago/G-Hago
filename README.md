@@ -4,7 +4,7 @@
 
 <div align="center" style="margin-bottom: 0;">
 
-# 🧬 Gia Hagos  
+# Gia Hagos  
 <p style="font-size: 13px; margin-top: -15px; margin-bottom: 5px;">
 <strong>Los Angeles, CA</strong> &nbsp;·&nbsp; <small>✉ hagos.careers.2024@gmail.com</small> &nbsp;·&nbsp; <small>🔗 <a href="https://www.linkedin.com/in/your-profile-here">LinkedIn</a></small>
 </p>
@@ -14,13 +14,13 @@
 
 ---
 
-## 🔬 About Me
+## About Me
 
 Laboratory technician with a background in **bioinformatics** and **paediatric cancer genomics**, bringing 2+ years of experience in high‑throughput diagnostics, quality control, and data analysis. Passionate about leveraging computational and statistical approaches to advance biomedical research. Currently supporting lab operations at Labcorp, I am actively seeking opportunities in **bioinformatics**, **biostatistics**, or **R&D** – where I can apply my analytical skills, genomic data expertise, and problem‑solving mindset to drive meaningful scientific discovery.
 
 ---
 
-### 🧬 Bioinformatics Tool Stack
+### Bioinformatics Tool Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3)&nbsp;
